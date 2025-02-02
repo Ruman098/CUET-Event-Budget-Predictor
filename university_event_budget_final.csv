@@ -1,0 +1,1001 @@
+Event_Name,Event_Type,Event_Scale,Event_Duration,Expected_Participants_Range,Equipment_Costs,Staff_Costs,Marketing_Costs,Sponsorship_Amount,Last_Event_Budget
+Event Name 1,Cultural Fest,Intra-University,4,>1000,6793,87390,11116,0,19951
+Event Name 2,Religious Event,Intra-University,3,<500,3738,6435,1366,0,0
+Event Name 3,Sports Tournament,National,4,>1000,3282,81480,6175,0,5452
+Event Name 4,Cultural Fest,Inter-University,2,500-1000,7276,12150,2654,4849,7631
+Event Name 5,Tech Fest,Inter-University,2,>1000,17316,53940,3800,6756,11374
+Event Name 6,Tech Fest,Inter-University,1,<500,18846,788,2774,0,9348
+Event Name 7,Tech Fest,Inter-University,5,>1000,15933,54075,4329,3036,6942
+Event Name 8,Seminar,Inter-University,4,<500,864,8580,1082,0,1857
+Event Name 9,Sports Tournament,Intra-University,1,500-1000,4152,6427,794,4511,5061
+Event Name 10,Sports Tournament,Intra-University,5,<500,6497,14925,2863,0,18093
+Event Name 11,Tech Fest,Intra-University,4,>1000,14089,128040,14388,9076,15067
+Event Name 12,Religious Event,International,3,<500,2963,2745,363,0,0
+Event Name 13,Seminar,National,4,<500,1606,3240,519,6840,0
+Event Name 14,Tech Fest,Intra-University,2,>1000,15797,56985,6608,2762,14346
+Event Name 15,Tech Fest,Inter-University,2,500-1000,8861,7515,1902,6839,14900
+Event Name 16,Tech Fest,National,3,500-1000,16346,21330,5206,7627,6908
+Event Name 17,Tech Fest,Intra-University,1,>1000,11494,10192,1972,0,19568
+Event Name 18,Cultural Fest,Intra-University,5,>1000,4237,102112,8400,1339,14137
+Event Name 19,Cultural Fest,National,4,500-1000,9253,24180,1720,3404,0
+Event Name 20,Tech Fest,Intra-University,2,<500,8404,1185,1031,3937,15419
+Event Name 21,Sports Tournament,Inter-University,1,<500,6670,2370,816,3904,17871
+Event Name 22,Tech Fest,Intra-University,3,>1000,17974,67748,7498,0,11266
+Event Name 23,Tech Fest,National,2,500-1000,17756,9105,1834,0,15683
+Event Name 24,Cultural Fest,International,3,>1000,7089,41468,4516,5321,9860
+Event Name 25,Cultural Fest,National,4,500-1000,4523,27660,4777,0,19400
+Event Name 26,Sports Tournament,Intra-University,5,500-1000,5451,22088,2197,0,0
+Event Name 27,Tech Fest,National,2,>1000,19380,56460,8340,4654,11761
+Event Name 28,Cultural Fest,Inter-University,2,>1000,9365,28350,4814,0,11955
+Event Name 29,Cultural Fest,Intra-University,4,<500,9853,14880,3090,4957,9754
+Event Name 30,Tech Fest,Inter-University,1,500-1000,13606,7102,1716,4144,10278
+Event Name 31,Sports Tournament,Intra-University,5,>1000,6280,92550,10979,0,0
+Event Name 32,Tech Fest,Intra-University,2,>1000,8171,59100,9225,3977,9250
+Event Name 33,Tech Fest,Intra-University,5,500-1000,16465,35137,2660,0,5895
+Event Name 34,Religious Event,Intra-University,2,500-1000,1442,10785,1144,0,1620
+Event Name 35,Religious Event,Intra-University,5,<500,3362,16012,1403,0,0
+Event Name 36,Seminar,Inter-University,3,<500,1514,3218,421,0,0
+Event Name 37,Tech Fest,Intra-University,2,500-1000,17963,14340,2959,0,17091
+Event Name 38,Tech Fest,Inter-University,5,>1000,8421,60525,8595,9642,15998
+Event Name 39,Sports Tournament,Intra-University,1,>1000,5892,36045,2490,1043,6301
+Event Name 40,Cultural Fest,Intra-University,3,500-1000,8287,15412,2400,0,0
+Event Name 41,Tech Fest,Intra-University,3,>1000,12675,67590,8542,6798,13784
+Event Name 42,Cultural Fest,Inter-University,1,<500,8473,1747,1016,0,16078
+Event Name 43,Tech Fest,Intra-University,5,>1000,19459,171225,23490,7718,14260
+Event Name 44,Religious Event,Inter-University,4,<500,1488,6330,691,0,3307
+Event Name 45,Tech Fest,National,1,>1000,14103,17025,4498,9041,5104
+Event Name 46,Sports Tournament,Inter-University,5,>1000,7071,134625,13912,2286,0
+Event Name 47,Tech Fest,Intra-University,1,>1000,11243,19402,3283,0,15845
+Event Name 48,Cultural Fest,Intra-University,1,<500,5410,2955,1109,0,17073
+Event Name 49,Cultural Fest,National,2,500-1000,9273,8625,1388,2077,9537
+Event Name 50,Tech Fest,Intra-University,5,<500,11096,16275,1574,2647,0
+Event Name 51,Religious Event,National,4,500-1000,3251,28140,3791,0,2841
+Event Name 52,Sports Tournament,Intra-University,2,500-1000,5752,11655,1711,0,12472
+Event Name 53,Religious Event,National,1,<500,2810,668,486,3846,3584
+Event Name 54,Seminar,Inter-University,1,<500,875,1125,297,269,1263
+Event Name 55,Cultural Fest,International,1,>1000,5641,23685,2637,5711,13014
+Event Name 56,Religious Event,Intra-University,5,<500,3228,16275,1785,0,0
+Event Name 57,Tech Fest,Inter-University,5,>1000,13798,183900,17950,4776,16340
+Event Name 58,Tech Fest,Intra-University,2,>1000,17627,26400,3630,8923,6351
+Event Name 59,Tech Fest,Intra-University,4,>1000,16415,127860,18492,5218,12190
+Event Name 60,Tech Fest,Inter-University,2,>1000,16411,68415,10680,0,18005
+Event Name 61,Cultural Fest,National,3,>1000,9133,84172,9131,5898,0
+Event Name 62,Tech Fest,International,1,<500,16456,3562,1090,3295,15885
+Event Name 63,Seminar,Inter-University,1,<500,1872,3405,427,0,1022
+Event Name 64,Cultural Fest,Intra-University,1,>1000,9925,17685,2188,1261,19785
+Event Name 65,Tech Fest,Intra-University,2,>1000,19925,33480,7002,3669,18558
+Event Name 66,Cultural Fest,Inter-University,2,<500,6166,1065,425,3185,9123
+Event Name 67,Tech Fest,Intra-University,1,<500,15620,1612,2250,3931,0
+Event Name 68,Seminar,Intra-University,2,<500,822,2220,356,0,0
+Event Name 69,Tech Fest,Intra-University,5,<500,13673,9637,2873,8021,14866
+Event Name 70,Religious Event,Intra-University,5,<500,3443,2137,520,0,1309
+Event Name 71,Sports Tournament,Intra-University,2,>1000,6999,56235,7460,1703,9929
+Event Name 72,Tech Fest,Intra-University,1,500-1000,19706,5055,2746,0,18608
+Event Name 73,Tech Fest,Intra-University,2,>1000,9353,42120,6532,7735,17638
+Event Name 74,Seminar,Intra-University,2,500-1000,1293,7740,855,0,3929
+Event Name 75,Sports Tournament,International,2,500-1000,3675,8835,1217,7347,6617
+Event Name 76,Sports Tournament,Intra-University,3,>1000,4823,60210,7437,0,12892
+Event Name 77,Sports Tournament,Intra-University,5,500-1000,4356,24150,1733,3593,0
+Event Name 78,Tech Fest,Inter-University,4,>1000,8924,34950,4108,7292,6575
+Event Name 79,Cultural Fest,Intra-University,4,>1000,8611,55440,9428,2121,14953
+Event Name 80,Tech Fest,National,3,>1000,18094,33638,2781,5596,18556
+Event Name 81,Seminar,Inter-University,2,<500,1712,1905,295,0,1046
+Event Name 82,Sports Tournament,Intra-University,3,500-1000,5040,20880,2110,4035,8892
+Event Name 83,Tech Fest,Intra-University,3,500-1000,16220,17122,3779,4390,11733
+Event Name 84,Tech Fest,National,1,>1000,16226,8715,1511,0,6381
+Event Name 85,Tech Fest,National,5,>1000,19781,127988,16676,4340,0
+Event Name 86,Tech Fest,Intra-University,4,<500,13515,1890,917,5297,11489
+Event Name 87,Sports Tournament,Inter-University,2,>1000,5642,33930,2354,1144,18688
+Event Name 88,Sports Tournament,Intra-University,4,500-1000,4600,17130,2669,0,14876
+Event Name 89,Seminar,International,4,<500,1637,14820,1356,8645,0
+Event Name 90,Cultural Fest,Intra-University,5,<500,7083,7200,2110,0,9748
+Event Name 91,Tech Fest,National,4,500-1000,11138,24270,1903,9368,0
+Event Name 92,Sports Tournament,Inter-University,4,500-1000,6799,23460,2860,2672,13302
+Event Name 93,Sports Tournament,Inter-University,3,500-1000,3618,17280,1281,4249,0
+Event Name 94,Cultural Fest,Intra-University,5,500-1000,4773,27750,2769,0,12181
+Event Name 95,Sports Tournament,Intra-University,1,500-1000,5115,6855,1793,1079,15835
+Event Name 96,Cultural Fest,Intra-University,2,>1000,8732,34020,5938,2868,14501
+Event Name 97,Cultural Fest,Intra-University,4,500-1000,6354,19860,1437,0,0
+Event Name 98,Cultural Fest,Intra-University,2,>1000,7338,31245,4102,0,14821
+Event Name 99,Tech Fest,Inter-University,1,>1000,17906,7538,2921,0,10283
+Event Name 100,Tech Fest,Intra-University,2,>1000,8556,71700,5694,8395,17897
+Event Name 101,Tech Fest,Intra-University,1,500-1000,16022,7268,1502,3670,10465
+Event Name 102,Sports Tournament,International,3,500-1000,4044,12532,2328,4220,0
+Event Name 103,Tech Fest,National,4,>1000,13452,146640,23515,2216,5879
+Event Name 104,Cultural Fest,National,1,<500,6683,3420,1507,3609,12222
+Event Name 105,Religious Event,International,2,<500,2313,3990,813,5839,0
+Event Name 106,Tech Fest,Intra-University,4,500-1000,18248,27510,5324,6062,16672
+Event Name 107,Cultural Fest,Intra-University,3,>1000,5545,69142,6317,0,16906
+Event Name 108,Sports Tournament,Inter-University,4,500-1000,4620,24060,1926,1796,5885
+Event Name 109,Tech Fest,Inter-University,1,500-1000,15500,3780,1116,5996,17069
+Event Name 110,Tech Fest,Intra-University,3,>1000,9016,44662,6405,0,0
+Event Name 111,Tech Fest,Inter-University,2,>1000,14470,69045,10729,8998,14117
+Event Name 112,Tech Fest,Intra-University,3,>1000,10062,31252,5480,4366,17006
+Event Name 113,Religious Event,Intra-University,3,<500,2569,5557,1149,0,3232
+Event Name 114,Seminar,Intra-University,5,500-1000,1324,20925,3070,0,0
+Event Name 115,Sports Tournament,Intra-University,3,500-1000,5918,21307,4083,4992,5440
+Event Name 116,Seminar,Intra-University,3,<500,826,6548,549,0,0
+Event Name 117,Seminar,Intra-University,4,<500,1486,5850,927,0,0
+Event Name 118,Tech Fest,National,2,>1000,19671,36165,6066,0,10012
+Event Name 119,Seminar,Intra-University,4,<500,1260,9660,831,0,0
+Event Name 120,Cultural Fest,Intra-University,4,500-1000,7732,22440,4471,4153,9776
+Event Name 121,Seminar,National,1,<500,1406,472,263,2496,0
+Event Name 122,Seminar,International,4,<500,1903,1860,237,9112,0
+Event Name 123,Tech Fest,National,5,>1000,9231,148125,8279,9894,5098
+Event Name 124,Tech Fest,Inter-University,5,>1000,17837,128662,17409,6813,0
+Event Name 125,Tech Fest,Inter-University,1,>1000,13831,11662,2815,5666,14881
+Event Name 126,Cultural Fest,Intra-University,2,<500,8230,6360,2095,0,18057
+Event Name 127,Seminar,Intra-University,2,<500,1569,6720,608,0,3071
+Event Name 128,Seminar,Intra-University,4,<500,773,2040,164,0,0
+Event Name 129,Tech Fest,Intra-University,4,>1000,8305,47220,4216,0,9778
+Event Name 130,Cultural Fest,Intra-University,4,>1000,9413,136860,7591,609,7415
+Event Name 131,Cultural Fest,Inter-University,2,>1000,5269,56970,3335,0,0
+Event Name 132,Tech Fest,Intra-University,3,>1000,9689,45068,7747,9570,13159
+Event Name 133,Tech Fest,Intra-University,5,500-1000,17709,34425,4442,7206,11374
+Event Name 134,Tech Fest,Intra-University,3,>1000,11917,99180,10119,2978,10521
+Event Name 135,Religious Event,Inter-University,3,500-1000,3371,20655,1245,0,0
+Event Name 136,Tech Fest,Intra-University,2,500-1000,16611,13530,2322,4243,8297
+Event Name 137,Cultural Fest,National,3,500-1000,4377,20317,3222,9229,17456
+Event Name 138,Sports Tournament,Intra-University,1,500-1000,7195,4492,1304,1701,14191
+Event Name 139,Cultural Fest,Intra-University,4,500-1000,9170,19860,3640,0,11367
+Event Name 140,Religious Event,Intra-University,1,<500,2627,3488,579,0,0
+Event Name 141,Religious Event,Inter-University,5,500-1000,3845,23288,2197,0,4599
+Event Name 142,Tech Fest,Intra-University,4,>1000,11261,42930,5326,0,12408
+Event Name 143,Cultural Fest,Inter-University,3,500-1000,9367,12218,1777,2341,17638
+Event Name 144,Tech Fest,Intra-University,5,500-1000,18061,32212,6731,0,6659
+Event Name 145,Tech Fest,Intra-University,4,>1000,9819,88290,7826,2908,15705
+Event Name 146,Tech Fest,National,3,>1000,18897,52650,8298,3856,0
+Event Name 147,Sports Tournament,Inter-University,1,500-1000,7016,6600,867,0,18286
+Event Name 148,Cultural Fest,Inter-University,4,500-1000,6007,19320,3006,0,11764
+Event Name 149,Tech Fest,National,3,500-1000,13560,18585,4543,7825,0
+Event Name 150,Tech Fest,National,1,>1000,10226,25575,3969,6360,8811
+Event Name 151,Religious Event,Inter-University,5,<500,3496,3712,764,0,4993
+Event Name 152,Tech Fest,Inter-University,5,>1000,12206,78300,13224,3885,10142
+Event Name 153,Tech Fest,Inter-University,5,>1000,14280,127575,15993,3049,15330
+Event Name 154,Cultural Fest,Inter-University,5,>1000,5995,67462,5579,1661,12526
+Event Name 155,Religious Event,Inter-University,2,<500,2075,3195,418,0,0
+Event Name 156,Tech Fest,Inter-University,4,>1000,15235,126360,17067,0,18661
+Event Name 157,Sports Tournament,Intra-University,4,<500,4452,10890,1895,3739,12933
+Event Name 158,Sports Tournament,National,2,>1000,7969,32265,3233,2080,9595
+Event Name 159,Tech Fest,National,3,>1000,10031,77512,7400,2869,16110
+Event Name 160,Sports Tournament,Intra-University,3,500-1000,7207,20700,4161,1306,0
+Event Name 161,Cultural Fest,Inter-University,5,>1000,9865,147262,9458,1203,14955
+Event Name 162,Sports Tournament,Intra-University,1,>1000,3460,10965,1305,3139,13527
+Event Name 163,Sports Tournament,Intra-University,3,500-1000,3886,16605,1153,4409,13970
+Event Name 164,Cultural Fest,Inter-University,1,<500,8938,2798,1550,0,8285
+Event Name 165,Tech Fest,Intra-University,4,>1000,19695,54210,4378,9982,8991
+Event Name 166,Seminar,Inter-University,1,<500,739,1770,295,0,0
+Event Name 167,Tech Fest,Inter-University,4,>1000,18668,82290,5618,2208,9899
+Event Name 168,Tech Fest,Intra-University,2,>1000,11340,25965,4375,8820,6935
+Event Name 169,Tech Fest,Intra-University,2,500-1000,15876,13485,3943,0,14274
+Event Name 170,Cultural Fest,Intra-University,5,500-1000,4342,25838,2713,3211,13545
+Event Name 171,Sports Tournament,Inter-University,3,500-1000,4924,19957,2543,1791,0
+Event Name 172,Tech Fest,International,5,500-1000,16558,34800,4630,7374,10062
+Event Name 173,Cultural Fest,Inter-University,4,500-1000,6623,25350,2559,3155,19765
+Event Name 174,Tech Fest,Intra-University,5,>1000,17281,86512,13527,9394,15776
+Event Name 175,Sports Tournament,Inter-University,1,500-1000,4055,6382,806,1325,0
+Event Name 176,Tech Fest,Intra-University,4,>1000,10038,98520,13276,2376,17210
+Event Name 177,Sports Tournament,Inter-University,2,500-1000,3541,10395,984,0,6368
+Event Name 178,Cultural Fest,Intra-University,3,>1000,8625,51975,4544,1254,18281
+Event Name 179,Religious Event,Inter-University,4,<500,3648,9240,1078,0,0
+Event Name 180,Tech Fest,Intra-University,4,>1000,12683,52710,7122,4705,0
+Event Name 181,Tech Fest,International,1,500-1000,8494,4762,1265,0,8052
+Event Name 182,Tech Fest,Intra-University,3,>1000,15116,40297,6900,4407,19284
+Event Name 183,Religious Event,Inter-University,2,<500,3317,4800,579,0,0
+Event Name 184,Seminar,National,4,<500,1954,6600,437,3723,0
+Event Name 185,Tech Fest,Intra-University,4,>1000,11510,96180,13747,3919,0
+Event Name 186,Sports Tournament,National,1,500-1000,7610,5250,1700,8595,10378
+Event Name 187,Seminar,Inter-University,5,<500,1303,3525,270,581,0
+Event Name 188,Cultural Fest,Intra-University,2,500-1000,7964,14235,2466,4381,13864
+Event Name 189,Cultural Fest,Intra-University,3,<500,5565,7042,1107,0,0
+Event Name 190,Tech Fest,Inter-University,4,>1000,14681,108900,15990,4711,0
+Event Name 191,Tech Fest,Intra-University,4,500-1000,14893,25890,5605,0,10629
+Event Name 192,Seminar,Intra-University,2,<500,1437,6300,1045,580,3767
+Event Name 193,Religious Event,Intra-University,5,500-1000,2755,22575,3235,0,0
+Event Name 194,Sports Tournament,Inter-University,4,>1000,3470,60030,4883,0,10429
+Event Name 195,Tech Fest,Intra-University,2,500-1000,12658,9360,2889,5339,12248
+Event Name 196,Tech Fest,National,1,>1000,15082,32880,4957,5010,7834
+Event Name 197,Sports Tournament,International,5,500-1000,3808,36112,2207,0,14715
+Event Name 198,Seminar,International,3,<500,559,7538,775,4903,2528
+Event Name 199,Seminar,Inter-University,4,<500,1920,8370,1484,0,0
+Event Name 200,Sports Tournament,Intra-University,2,500-1000,7142,9675,2334,4191,6706
+Event Name 201,Sports Tournament,Inter-University,1,500-1000,7225,6518,828,0,0
+Event Name 202,Tech Fest,Intra-University,3,>1000,19538,49950,8645,8621,8959
+Event Name 203,Tech Fest,Intra-University,2,>1000,18065,74340,12066,8060,0
+Event Name 204,Seminar,Intra-University,2,<500,524,4050,353,165,4649
+Event Name 205,Sports Tournament,Intra-University,3,500-1000,4129,20745,2417,4014,18585
+Event Name 206,Tech Fest,Inter-University,1,<500,19995,817,2520,7686,17787
+Event Name 207,Tech Fest,Inter-University,1,500-1000,13979,4478,1733,5088,8727
+Event Name 208,Sports Tournament,Intra-University,5,<500,6895,8250,928,2223,0
+Event Name 209,Tech Fest,Intra-University,4,>1000,16890,133590,18146,4355,18817
+Event Name 210,Tech Fest,International,3,500-1000,9312,15120,3449,0,12852
+Event Name 211,Cultural Fest,Intra-University,3,<500,9839,4500,1653,2218,9374
+Event Name 212,Sports Tournament,Intra-University,3,>1000,6142,32670,4944,0,0
+Event Name 213,Sports Tournament,Intra-University,1,>1000,4790,25477,2598,0,0
+Event Name 214,Tech Fest,Inter-University,4,>1000,11197,149190,10958,9227,0
+Event Name 215,Sports Tournament,Inter-University,5,>1000,3885,111562,13193,3421,10526
+Event Name 216,Tech Fest,Intra-University,2,>1000,15204,39855,4558,4417,0
+Event Name 217,Tech Fest,Intra-University,2,>1000,13730,53115,9091,0,17008
+Event Name 218,Sports Tournament,Inter-University,3,500-1000,4538,13658,1133,3154,11004
+Event Name 219,Sports Tournament,Inter-University,4,<500,5073,1590,622,1752,7231
+Event Name 220,Seminar,Intra-University,1,<500,767,1065,164,0,0
+Event Name 221,Sports Tournament,International,4,<500,3810,13680,2515,8000,17464
+Event Name 222,Cultural Fest,Intra-University,4,>1000,7481,91590,6471,0,12240
+Event Name 223,Tech Fest,Intra-University,1,>1000,17211,9652,1370,8931,18536
+Event Name 224,Cultural Fest,National,3,500-1000,7253,13612,1540,3196,11071
+Event Name 225,Tech Fest,Intra-University,4,>1000,14671,126510,18640,3660,5709
+Event Name 226,Tech Fest,Inter-University,2,>1000,14683,72810,6206,2260,5793
+Event Name 227,Religious Event,Intra-University,1,<500,1056,3548,341,0,26
+Event Name 228,Cultural Fest,Intra-University,5,500-1000,6663,32887,2491,0,10322
+Event Name 229,Seminar,International,3,<500,548,3262,463,9621,0
+Event Name 230,Sports Tournament,Intra-University,1,<500,5705,2085,443,4870,14314
+Event Name 231,Sports Tournament,National,5,500-1000,3596,26288,2484,5344,5011
+Event Name 232,Cultural Fest,Intra-University,5,<500,7659,9788,1365,592,14940
+Event Name 233,Cultural Fest,Intra-University,4,>1000,6945,60870,7156,0,0
+Event Name 234,Cultural Fest,Intra-University,4,500-1000,7018,18330,3119,1851,18671
+Event Name 235,Tech Fest,Inter-University,4,>1000,10841,102690,11726,0,5179
+Event Name 236,Sports Tournament,Intra-University,1,500-1000,7373,6585,1997,0,17005
+Event Name 237,Tech Fest,National,1,>1000,14040,10845,3612,0,12312
+Event Name 238,Tech Fest,Intra-University,3,>1000,11560,41265,4551,8683,0
+Event Name 239,Sports Tournament,International,4,500-1000,6697,18150,3175,3296,14078
+Event Name 240,Tech Fest,Intra-University,5,>1000,12758,177075,23517,0,10285
+Event Name 241,Religious Event,National,2,<500,3934,5220,1275,0,1519
+Event Name 242,Religious Event,Inter-University,3,500-1000,1022,20250,2016,0,2432
+Event Name 243,Religious Event,Inter-University,1,500-1000,3202,4462,790,135,0
+Event Name 244,Cultural Fest,Inter-University,3,>1000,9323,54248,5822,0,14108
+Event Name 245,Tech Fest,Inter-University,3,>1000,9181,44055,7189,0,6781
+Event Name 246,Religious Event,Inter-University,3,500-1000,1748,21398,1689,0,0
+Event Name 247,Cultural Fest,Intra-University,3,>1000,9307,87660,7173,0,19701
+Event Name 248,Religious Event,Intra-University,2,<500,1133,5190,552,0,0
+Event Name 249,Religious Event,National,4,500-1000,1320,28980,2213,6744,0
+Event Name 250,Seminar,Inter-University,5,<500,916,16425,1840,626,0
+Event Name 251,Tech Fest,Inter-University,3,<500,11296,10462,1381,0,14675
+Event Name 252,Cultural Fest,Intra-University,3,<500,5420,5917,930,0,5800
+Event Name 253,Seminar,Intra-University,3,<500,746,7650,1187,511,0
+Event Name 254,Tech Fest,Intra-University,4,>1000,9882,138150,13459,6835,10267
+Event Name 255,Tech Fest,Inter-University,1,<500,12908,1815,1838,2521,0
+Event Name 256,Cultural Fest,Intra-University,1,500-1000,9288,7252,1015,4238,0
+Event Name 257,Religious Event,Intra-University,2,<500,3917,2985,516,317,981
+Event Name 258,Sports Tournament,Intra-University,1,<500,3701,3128,893,2358,0
+Event Name 259,Cultural Fest,Intra-University,3,>1000,4654,85635,11403,2898,16656
+Event Name 260,Tech Fest,Intra-University,3,>1000,8681,40005,4314,4851,9812
+Event Name 261,Sports Tournament,Intra-University,3,500-1000,7262,21600,4198,4195,10903
+Event Name 262,Religious Event,Inter-University,2,<500,2339,4500,965,0,0
+Event Name 263,Tech Fest,Intra-University,3,>1000,10387,91102,14841,5693,8322
+Event Name 264,Cultural Fest,Intra-University,1,500-1000,6971,3765,996,1286,15375
+Event Name 265,Seminar,Intra-University,4,<500,1727,13260,1045,0,0
+Event Name 266,Sports Tournament,Intra-University,4,500-1000,7886,24450,3643,0,17842
+Event Name 267,Sports Tournament,Intra-University,5,>1000,6718,117112,14671,3443,13237
+Event Name 268,Sports Tournament,Intra-University,1,>1000,6609,11985,1163,0,19533
+Event Name 269,Cultural Fest,Inter-University,3,>1000,7823,97672,13572,0,16424
+Event Name 270,Tech Fest,Intra-University,4,>1000,10580,36720,2450,6631,7567
+Event Name 271,Seminar,Inter-University,1,<500,573,502,106,0,0
+Event Name 272,Seminar,National,4,<500,560,4860,450,0,0
+Event Name 273,Seminar,Inter-University,3,<500,1197,6750,986,427,0
+Event Name 274,Religious Event,Intra-University,4,500-1000,2824,21960,2014,0,0
+Event Name 275,Cultural Fest,Intra-University,5,500-1000,7004,31050,5049,1044,0
+Event Name 276,Cultural Fest,Intra-University,5,500-1000,8516,29175,4127,0,15619
+Event Name 277,Sports Tournament,Intra-University,4,>1000,5720,51390,7389,1158,8549
+Event Name 278,Sports Tournament,International,1,500-1000,4770,4365,1361,4058,15596
+Event Name 279,Sports Tournament,Intra-University,1,500-1000,7113,4680,1391,1230,6976
+Event Name 280,Sports Tournament,Intra-University,1,500-1000,4777,5055,1460,4679,12180
+Event Name 281,Seminar,Inter-University,4,<500,736,3540,226,175,3803
+Event Name 282,Tech Fest,Inter-University,1,500-1000,16488,4095,1725,0,0
+Event Name 283,Cultural Fest,Intra-University,3,500-1000,5510,19598,1526,633,17857
+Event Name 284,Tech Fest,Intra-University,5,>1000,19594,85462,8008,6959,11060
+Event Name 285,Cultural Fest,Intra-University,3,500-1000,6508,16065,3022,0,8976
+Event Name 286,Tech Fest,Intra-University,1,>1000,15164,7718,1218,7871,10452
+Event Name 287,Cultural Fest,Intra-University,3,>1000,6682,74880,8321,0,17319
+Event Name 288,Cultural Fest,Intra-University,1,>1000,4989,29782,3711,1737,6916
+Event Name 289,Tech Fest,Intra-University,4,>1000,14060,90510,11096,0,6845
+Event Name 290,Cultural Fest,Intra-University,3,500-1000,4254,16560,2030,0,13111
+Event Name 291,Tech Fest,Intra-University,4,>1000,9677,129570,17971,9804,18230
+Event Name 292,Tech Fest,Intra-University,4,>1000,10881,102450,7180,9956,6370
+Event Name 293,Seminar,Intra-University,2,<500,882,1110,161,0,91
+Event Name 294,Cultural Fest,Inter-University,1,>1000,9721,19568,3268,4874,18015
+Event Name 295,Tech Fest,Inter-University,5,>1000,9378,64388,8785,0,19707
+Event Name 296,Cultural Fest,Intra-University,1,<500,4255,2722,631,0,0
+Event Name 297,Sports Tournament,Intra-University,5,500-1000,4946,22238,3739,1638,0
+Event Name 298,Tech Fest,Intra-University,1,500-1000,13650,6555,1850,9717,17454
+Event Name 299,Sports Tournament,Inter-University,4,>1000,4782,110580,10415,0,0
+Event Name 300,Tech Fest,Inter-University,3,>1000,17456,66600,4507,5557,6286
+Event Name 301,Tech Fest,Intra-University,3,>1000,18099,46080,6746,0,11655
+Event Name 302,Cultural Fest,National,2,>1000,6803,35355,5096,7050,15101
+Event Name 303,Cultural Fest,Intra-University,5,500-1000,7765,32025,2445,1475,10431
+Event Name 304,Sports Tournament,Intra-University,5,<500,4561,6188,866,1222,18055
+Event Name 305,Sports Tournament,Inter-University,5,500-1000,7006,20512,3526,0,8087
+Event Name 306,Religious Event,National,4,500-1000,3131,21750,2154,0,0
+Event Name 307,Cultural Fest,Inter-University,5,500-1000,4196,28688,2439,0,10467
+Event Name 308,Tech Fest,Inter-University,3,500-1000,12248,13455,3013,0,5693
+Event Name 309,Sports Tournament,Intra-University,4,>1000,4301,74460,5488,0,16432
+Event Name 310,Tech Fest,Inter-University,1,500-1000,12603,3825,2293,4430,18354
+Event Name 311,Cultural Fest,Intra-University,5,500-1000,6665,21900,1730,0,7268
+Event Name 312,Tech Fest,National,5,>1000,11553,129450,17013,0,16704
+Event Name 313,Tech Fest,Intra-University,1,>1000,17953,32138,5007,4179,10973
+Event Name 314,Religious Event,Inter-University,5,500-1000,1289,25200,3629,0,0
+Event Name 315,Seminar,Intra-University,1,<500,1167,3300,280,0,658
+Event Name 316,Sports Tournament,Inter-University,4,>1000,4417,106500,13065,0,6018
+Event Name 317,Cultural Fest,Intra-University,3,500-1000,4421,15930,2182,0,16898
+Event Name 318,Tech Fest,Inter-University,1,500-1000,15349,7102,2200,8693,7296
+Event Name 319,Tech Fest,Intra-University,2,500-1000,13618,13215,2660,9485,14572
+Event Name 320,Tech Fest,Intra-University,1,500-1000,19080,4222,2847,0,12867
+Event Name 321,Cultural Fest,Intra-University,5,>1000,8166,123938,18993,4631,9329
+Event Name 322,Sports Tournament,Intra-University,4,500-1000,6123,24930,1836,3287,6404
+Event Name 323,Sports Tournament,National,4,<500,3897,5100,467,8540,6369
+Event Name 324,Tech Fest,Intra-University,1,>1000,19169,13567,4274,2465,7064
+Event Name 325,Religious Event,International,3,<500,1864,2318,254,3487,2817
+Event Name 326,Sports Tournament,Intra-University,2,>1000,4209,60990,9693,825,18850
+Event Name 327,Cultural Fest,Intra-University,4,>1000,9802,70620,9002,803,0
+Event Name 328,Sports Tournament,Inter-University,5,500-1000,7837,28912,4229,0,0
+Event Name 329,Cultural Fest,Inter-University,5,>1000,6446,46500,3700,0,5008
+Event Name 330,Tech Fest,Intra-University,3,500-1000,16236,16695,2438,2148,11086
+Event Name 331,Cultural Fest,Intra-University,4,500-1000,4220,15510,2287,3131,19362
+Event Name 332,Sports Tournament,Inter-University,1,<500,5806,1770,1068,0,18392
+Event Name 333,Tech Fest,Intra-University,5,>1000,13753,108038,18054,0,0
+Event Name 334,Tech Fest,International,3,>1000,15237,83317,6879,4369,0
+Event Name 335,Tech Fest,International,4,>1000,15016,99270,7247,2528,5850
+Event Name 336,Tech Fest,Inter-University,4,>1000,14191,58560,4048,6675,5299
+Event Name 337,Seminar,Intra-University,4,500-1000,836,25890,3657,0,0
+Event Name 338,Sports Tournament,Inter-University,4,500-1000,3328,29700,2625,0,10400
+Event Name 339,Cultural Fest,Intra-University,4,500-1000,7985,27900,1801,1192,0
+Event Name 340,Tech Fest,Intra-University,5,>1000,9033,46425,4014,7950,13167
+Event Name 341,Cultural Fest,Intra-University,3,>1000,8899,75398,7085,0,16728
+Event Name 342,Cultural Fest,Intra-University,4,>1000,8310,100350,16201,1038,0
+Event Name 343,Tech Fest,National,2,>1000,16465,16125,3336,0,13967
+Event Name 344,Cultural Fest,Inter-University,2,500-1000,7681,10305,1267,771,0
+Event Name 345,Cultural Fest,Inter-University,3,<500,5443,8595,1172,4165,7303
+Event Name 346,Sports Tournament,Intra-University,1,500-1000,3332,6652,829,0,6851
+Event Name 347,Sports Tournament,Intra-University,1,500-1000,6368,7395,715,0,0
+Event Name 348,Tech Fest,Intra-University,1,>1000,8478,20858,1863,6210,16789
+Event Name 349,Cultural Fest,International,2,>1000,5332,55335,7251,0,5244
+Event Name 350,Sports Tournament,Intra-University,1,500-1000,6170,7297,835,0,16019
+Event Name 351,Cultural Fest,National,5,>1000,8002,68475,5588,5694,0
+Event Name 352,Seminar,Intra-University,4,<500,741,13800,1237,0,1240
+Event Name 353,Sports Tournament,Intra-University,2,<500,7234,4980,1536,2382,0
+Event Name 354,Tech Fest,Inter-University,3,>1000,19472,35775,5980,2184,0
+Event Name 355,Tech Fest,Intra-University,3,500-1000,8271,12848,2511,2220,0
+Event Name 356,Sports Tournament,National,4,500-1000,3028,22860,2762,5188,18117
+Event Name 357,Tech Fest,National,2,>1000,15778,56250,8525,9237,0
+Event Name 358,Cultural Fest,Intra-University,1,>1000,5997,21765,1396,0,17134
+Event Name 359,Religious Event,Intra-University,1,<500,3847,3180,1005,0,0
+Event Name 360,Cultural Fest,Intra-University,5,<500,8524,17962,1618,1100,6511
+Event Name 361,Cultural Fest,National,5,<500,4433,4200,782,8274,11118
+Event Name 362,Sports Tournament,Intra-University,1,>1000,3298,30352,4277,0,13421
+Event Name 363,Cultural Fest,Inter-University,3,500-1000,7099,19778,2514,1652,0
+Event Name 364,Cultural Fest,Inter-University,3,>1000,6729,68828,10932,0,7615
+Event Name 365,Religious Event,Inter-University,5,<500,3681,7125,1046,0,0
+Event Name 366,Cultural Fest,Intra-University,4,<500,7140,9090,2232,0,19051
+Event Name 367,Religious Event,Inter-University,1,<500,3896,690,601,0,0
+Event Name 368,Religious Event,National,5,500-1000,1669,19350,3113,0,0
+Event Name 369,Tech Fest,Intra-University,5,>1000,13033,78225,13018,7977,16001
+Event Name 370,Tech Fest,Intra-University,1,>1000,15788,9390,3520,0,8260
+Event Name 371,Tech Fest,International,1,>1000,19452,10980,3748,5003,12802
+Event Name 372,Tech Fest,Intra-University,3,500-1000,13214,19688,2853,7781,13636
+Event Name 373,Tech Fest,National,4,>1000,12712,84810,5911,2944,11695
+Event Name 374,Sports Tournament,Intra-University,4,500-1000,4218,29040,3953,0,17576
+Event Name 375,Tech Fest,Intra-University,1,500-1000,15533,3802,2859,0,12816
+Event Name 376,Tech Fest,National,2,>1000,12616,42900,6810,7783,0
+Event Name 377,Seminar,Intra-University,5,<500,734,5212,850,0,0
+Event Name 378,Tech Fest,Intra-University,5,>1000,18506,64462,10822,0,0
+Event Name 379,Seminar,Intra-University,1,<500,1582,2558,275,65,3512
+Event Name 380,Tech Fest,Intra-University,2,>1000,18724,57645,5722,8047,14087
+Event Name 381,Tech Fest,Intra-University,3,>1000,19772,36652,4750,5759,19899
+Event Name 382,Sports Tournament,Intra-University,1,500-1000,7856,6360,950,2589,18988
+Event Name 383,Sports Tournament,International,1,500-1000,7928,5055,1404,0,8034
+Event Name 384,Seminar,Intra-University,5,<500,1156,4688,862,519,1897
+Event Name 385,Sports Tournament,Inter-University,1,500-1000,7378,4500,1498,0,9407
+Event Name 386,Seminar,Intra-University,1,<500,1613,3472,470,0,0
+Event Name 387,Tech Fest,Inter-University,1,<500,15675,1500,866,4010,19635
+Event Name 388,Tech Fest,Intra-University,5,>1000,16264,129262,11835,3891,12535
+Event Name 389,Sports Tournament,International,3,500-1000,6071,17302,2400,0,7808
+Event Name 390,Seminar,Intra-University,3,<500,756,2700,285,0,0
+Event Name 391,Religious Event,Intra-University,1,500-1000,1873,7440,569,678,4297
+Event Name 392,Cultural Fest,Intra-University,5,>1000,7310,159412,15718,0,18980
+Event Name 393,Cultural Fest,Intra-University,3,>1000,4926,94388,7481,566,10008
+Event Name 394,Sports Tournament,Intra-University,3,>1000,4040,54090,8192,2277,5436
+Event Name 395,Tech Fest,Intra-University,3,>1000,18023,98190,6993,4228,17818
+Event Name 396,Religious Event,Inter-University,5,500-1000,1637,29400,1704,0,0
+Event Name 397,Seminar,Intra-University,5,<500,1171,9150,522,696,2919
+Event Name 398,Cultural Fest,Intra-University,1,<500,9930,3360,1101,1737,8944
+Event Name 399,Sports Tournament,Inter-University,4,500-1000,4779,21810,3085,0,17204
+Event Name 400,Sports Tournament,Inter-University,3,500-1000,7994,20925,3558,1449,6403
+Event Name 401,Tech Fest,Intra-University,4,>1000,10244,73770,8009,3111,17992
+Event Name 402,Religious Event,Intra-University,5,500-1000,1370,29025,3600,0,0
+Event Name 403,Cultural Fest,Intra-University,5,500-1000,7438,36000,3735,0,10761
+Event Name 404,Seminar,Inter-University,5,<500,1574,5812,863,0,0
+Event Name 405,Tech Fest,Inter-University,4,500-1000,8798,15600,1319,2702,15613
+Event Name 406,Seminar,Intra-University,5,<500,1090,4238,475,0,798
+Event Name 407,Cultural Fest,Inter-University,1,<500,7491,1605,1174,0,12517
+Event Name 408,Tech Fest,Inter-University,5,500-1000,10795,19725,3977,3149,14998
+Event Name 409,Religious Event,Intra-University,2,<500,3261,5400,1053,0,0
+Event Name 410,Tech Fest,National,4,>1000,15297,121770,9653,0,8371
+Event Name 411,Tech Fest,Intra-University,2,>1000,11084,19260,2267,3483,15334
+Event Name 412,Religious Event,Intra-University,5,<500,1380,7387,1312,0,0
+Event Name 413,Religious Event,Intra-University,1,<500,3720,2475,374,0,0
+Event Name 414,Cultural Fest,Intra-University,3,<500,5334,8438,937,3549,19026
+Event Name 415,Sports Tournament,Intra-University,5,500-1000,3672,30675,2164,0,16049
+Event Name 416,Cultural Fest,National,1,<500,5847,1598,616,8412,6096
+Event Name 417,Tech Fest,Intra-University,4,>1000,19970,149070,12005,2015,0
+Event Name 418,Tech Fest,Intra-University,2,>1000,18937,59475,7823,0,12061
+Event Name 419,Sports Tournament,Intra-University,2,>1000,7071,18345,2481,3883,6352
+Event Name 420,Sports Tournament,National,2,>1000,3616,26745,4255,2894,11980
+Event Name 421,Sports Tournament,Intra-University,4,500-1000,7634,19350,1443,0,8712
+Event Name 422,Sports Tournament,Intra-University,1,500-1000,5786,7140,1060,4620,0
+Event Name 423,Tech Fest,Intra-University,4,>1000,13074,58470,7846,6666,13509
+Event Name 424,Cultural Fest,Intra-University,2,500-1000,4164,12825,1877,3555,12981
+Event Name 425,Tech Fest,International,5,>1000,15099,153788,16553,3953,17693
+Event Name 426,Cultural Fest,International,3,500-1000,7057,12240,2539,0,12237
+Event Name 427,Cultural Fest,Intra-University,4,500-1000,6084,23220,1649,2915,16786
+Event Name 428,Seminar,International,4,<500,1389,2490,510,0,678
+Event Name 429,Cultural Fest,Inter-University,1,500-1000,4402,4800,915,803,10643
+Event Name 430,Tech Fest,National,1,>1000,12239,33735,2914,0,0
+Event Name 431,Tech Fest,Intra-University,4,>1000,12479,54870,9333,0,5834
+Event Name 432,Sports Tournament,Intra-University,2,>1000,3659,43635,5435,0,14860
+Event Name 433,Sports Tournament,Intra-University,3,>1000,5033,73530,5213,0,13472
+Event Name 434,Tech Fest,Inter-University,1,>1000,10371,21682,1711,7039,0
+Event Name 435,Tech Fest,Intra-University,2,500-1000,19278,7815,1737,4060,15954
+Event Name 436,Sports Tournament,Intra-University,5,500-1000,4656,25462,3339,0,14438
+Event Name 437,Tech Fest,Intra-University,1,>1000,9515,17925,1864,4201,12111
+Event Name 438,Seminar,Inter-University,2,<500,951,7035,580,0,2665
+Event Name 439,Sports Tournament,Intra-University,2,500-1000,3453,12420,834,0,13498
+Event Name 440,Tech Fest,Inter-University,3,500-1000,13586,16425,3670,4823,17409
+Event Name 441,Tech Fest,International,3,500-1000,10917,22455,4373,7269,12321
+Event Name 442,Religious Event,Intra-University,5,<500,1440,16950,2385,0,0
+Event Name 443,Cultural Fest,Inter-University,2,>1000,8150,38595,2934,0,0
+Event Name 444,Cultural Fest,Intra-University,2,>1000,8873,54435,8884,0,19888
+Event Name 445,Seminar,National,3,<500,1645,3712,628,8174,0
+Event Name 446,Religious Event,Intra-University,1,<500,3965,2160,856,592,3198
+Event Name 447,Religious Event,Inter-University,1,<500,3367,2880,592,497,0
+Event Name 448,Sports Tournament,Inter-University,4,500-1000,5418,28200,3150,631,11641
+Event Name 449,Cultural Fest,National,3,500-1000,8326,14558,2940,7251,11541
+Event Name 450,Tech Fest,Inter-University,4,>1000,11655,60960,4308,0,0
+Event Name 451,Sports Tournament,Intra-University,3,500-1000,5017,17708,2320,3896,10765
+Event Name 452,Cultural Fest,Inter-University,5,>1000,9641,52012,8239,2058,5435
+Event Name 453,Cultural Fest,National,2,>1000,5381,61815,8938,7092,0
+Event Name 454,Religious Event,Intra-University,5,500-1000,2185,31388,4889,0,0
+Event Name 455,Tech Fest,Intra-University,3,>1000,17488,103230,14465,5574,6650
+Event Name 456,Cultural Fest,National,2,>1000,6738,28725,2510,9274,7261
+Event Name 457,Tech Fest,Inter-University,1,500-1000,10220,6315,860,5791,10894
+Event Name 458,Cultural Fest,Inter-University,1,>1000,4880,27638,3185,0,11897
+Event Name 459,Tech Fest,Intra-University,4,>1000,9030,139740,15081,0,10901
+Event Name 460,Tech Fest,Inter-University,3,500-1000,18785,14940,2497,6473,18500
+Event Name 461,Tech Fest,Intra-University,3,>1000,14691,28732,2713,0,5388
+Event Name 462,Sports Tournament,Inter-University,1,500-1000,5263,7058,1338,0,0
+Event Name 463,Sports Tournament,Intra-University,5,500-1000,4969,30862,4530,4544,10834
+Event Name 464,Cultural Fest,Inter-University,2,>1000,5168,60540,9811,3914,0
+Event Name 465,Religious Event,International,5,<500,1013,13088,1774,0,1059
+Event Name 466,Cultural Fest,Intra-University,5,<500,7129,12712,2567,0,6301
+Event Name 467,Tech Fest,International,1,>1000,14040,27270,4612,3844,12696
+Event Name 468,Seminar,Intra-University,1,<500,1940,2602,675,0,0
+Event Name 469,Tech Fest,National,1,<500,18570,1395,2276,7079,12881
+Event Name 470,Religious Event,Inter-University,4,<500,2543,4650,978,300,0
+Event Name 471,Tech Fest,Intra-University,5,<500,15037,5400,2955,0,5498
+Event Name 472,Religious Event,Inter-University,3,<500,2571,4140,960,0,0
+Event Name 473,Tech Fest,National,2,>1000,17499,23685,3630,2806,16831
+Event Name 474,Seminar,Intra-University,4,<500,1635,5880,435,0,0
+Event Name 475,Cultural Fest,Intra-University,3,>1000,7555,33502,2759,0,0
+Event Name 476,Religious Event,Inter-University,5,500-1000,1715,36637,2145,0,0
+Event Name 477,Tech Fest,Inter-University,1,<500,14221,1560,955,7882,19155
+Event Name 478,Cultural Fest,Inter-University,5,>1000,4445,51862,3855,4449,7628
+Event Name 479,Religious Event,Inter-University,2,<500,3789,3180,586,164,0
+Event Name 480,Cultural Fest,Intra-University,4,<500,8016,14700,2371,2042,6067
+Event Name 481,Sports Tournament,Inter-University,4,>1000,7264,86280,11335,0,14859
+Event Name 482,Sports Tournament,Intra-University,2,500-1000,6401,10320,1189,0,0
+Event Name 483,Cultural Fest,Intra-University,3,<500,7337,10440,2084,1311,9066
+Event Name 484,Sports Tournament,Intra-University,3,500-1000,7611,18855,3187,4677,13143
+Event Name 485,Cultural Fest,Intra-University,4,>1000,5848,78900,8972,2756,11114
+Event Name 486,Religious Event,Intra-University,4,500-1000,2129,20400,3162,0,0
+Event Name 487,Tech Fest,Intra-University,1,500-1000,18003,5902,1461,0,0
+Event Name 488,Tech Fest,Inter-University,3,>1000,11183,64282,5110,7089,11209
+Event Name 489,Religious Event,Intra-University,2,500-1000,3816,10290,1310,0,3577
+Event Name 490,Seminar,Intra-University,3,<500,747,9472,640,0,157
+Event Name 491,Cultural Fest,Intra-University,1,<500,4091,1402,586,0,15162
+Event Name 492,Sports Tournament,Intra-University,4,500-1000,3432,18870,2004,3930,7795
+Event Name 493,Tech Fest,Intra-University,4,>1000,10716,97230,8469,8133,0
+Event Name 494,Tech Fest,Intra-University,1,>1000,8190,25222,2239,0,0
+Event Name 495,Cultural Fest,Inter-University,2,>1000,7309,72840,6695,0,6810
+Event Name 496,Cultural Fest,Inter-University,4,>1000,4982,86610,10148,4751,17178
+Event Name 497,Cultural Fest,Inter-University,5,<500,7443,7238,1579,0,17456
+Event Name 498,Tech Fest,Intra-University,4,>1000,8378,30450,2577,4849,11323
+Event Name 499,Religious Event,Intra-University,5,<500,1544,13162,919,0,0
+Event Name 500,Religious Event,National,1,<500,3401,3540,366,2492,0
+Event Name 501,Sports Tournament,Intra-University,1,500-1000,5513,5580,568,0,5619
+Event Name 502,Cultural Fest,Intra-University,4,>1000,4155,57780,8546,0,11260
+Event Name 503,Tech Fest,Intra-University,3,>1000,9754,94005,5656,0,8914
+Event Name 504,Seminar,Intra-University,5,<500,1464,5138,813,0,0
+Event Name 505,Sports Tournament,Intra-University,2,500-1000,4951,9420,1972,1276,18499
+Event Name 506,Tech Fest,Intra-University,4,>1000,12267,57180,4153,0,10630
+Event Name 507,Religious Event,Intra-University,2,<500,2536,6360,833,0,0
+Event Name 508,Seminar,Intra-University,4,<500,631,11700,1803,0,0
+Event Name 509,Religious Event,Inter-University,3,500-1000,1591,11318,1722,0,0
+Event Name 510,Sports Tournament,Inter-University,3,>1000,3994,98955,10189,0,0
+Event Name 511,Sports Tournament,Inter-University,3,500-1000,3612,20452,3038,0,0
+Event Name 512,Cultural Fest,Inter-University,3,<500,5410,9360,1969,0,10902
+Event Name 513,Religious Event,International,1,<500,2558,2662,443,0,2717
+Event Name 514,Seminar,Intra-University,1,<500,1133,3338,622,0,0
+Event Name 515,Tech Fest,Intra-University,5,<500,10212,5400,1515,0,0
+Event Name 516,Tech Fest,Intra-University,2,>1000,14120,71880,8839,5879,5659
+Event Name 517,Cultural Fest,Inter-University,4,<500,7394,8220,2342,0,9642
+Event Name 518,Seminar,National,4,<500,1065,11910,1743,8618,2274
+Event Name 519,Religious Event,Intra-University,1,<500,1991,2775,411,797,1468
+Event Name 520,Tech Fest,National,4,>1000,19695,46740,3390,2516,0
+Event Name 521,Cultural Fest,Intra-University,1,>1000,4997,16530,2424,1991,7471
+Event Name 522,Cultural Fest,National,5,>1000,8076,137438,17519,6228,11175
+Event Name 523,Religious Event,Intra-University,2,500-1000,3846,10470,1647,313,1281
+Event Name 524,Seminar,Intra-University,5,<500,1027,16312,2545,519,2799
+Event Name 525,Seminar,Intra-University,3,<500,1416,3488,668,0,0
+Event Name 526,Cultural Fest,Intra-University,3,500-1000,8052,17528,2427,0,0
+Event Name 527,Cultural Fest,Intra-University,3,500-1000,9303,17078,1485,1247,7413
+Event Name 528,Tech Fest,Intra-University,5,<500,16307,5888,2166,0,15838
+Event Name 529,Tech Fest,Inter-University,4,>1000,15437,107340,14601,3379,9784
+Event Name 530,Seminar,Intra-University,2,<500,1605,6885,940,0,2058
+Event Name 531,Seminar,Intra-University,3,<500,1585,7762,970,113,0
+Event Name 532,Religious Event,Inter-University,3,<500,3756,7988,1138,54,910
+Event Name 533,Religious Event,Inter-University,3,<500,3757,4950,691,0,1566
+Event Name 534,Cultural Fest,Intra-University,2,500-1000,4848,12450,1345,0,0
+Event Name 535,Sports Tournament,Intra-University,3,500-1000,4311,22320,2664,0,9248
+Event Name 536,Religious Event,Intra-University,2,<500,1968,3660,372,0,0
+Event Name 537,Seminar,Intra-University,3,<500,1142,1372,211,208,0
+Event Name 538,Tech Fest,Inter-University,5,>1000,12813,44775,4745,0,10760
+Event Name 539,Cultural Fest,Intra-University,5,>1000,7189,132637,15201,0,15793
+Event Name 540,Tech Fest,Intra-University,2,>1000,13454,57630,4028,5535,10347
+Event Name 541,Religious Event,Inter-University,5,<500,3312,15675,2525,0,0
+Event Name 542,Sports Tournament,Intra-University,2,>1000,7924,48435,5987,0,12443
+Event Name 543,Tech Fest,Intra-University,5,500-1000,14414,35588,5854,0,18898
+Event Name 544,Sports Tournament,Intra-University,5,500-1000,5003,30150,4229,2095,19815
+Event Name 545,Sports Tournament,International,2,500-1000,7198,9645,1333,0,0
+Event Name 546,Cultural Fest,Intra-University,4,>1000,6990,87630,9182,0,18989
+Event Name 547,Tech Fest,Inter-University,5,>1000,15943,164512,26279,9719,9425
+Event Name 548,Sports Tournament,Intra-University,3,>1000,4221,84172,11197,1179,0
+Event Name 549,Cultural Fest,Intra-University,4,500-1000,8669,15870,3606,0,19250
+Event Name 550,Sports Tournament,Inter-University,2,500-1000,5273,8745,1747,736,17247
+Event Name 551,Cultural Fest,International,4,500-1000,5552,19950,1723,0,12289
+Event Name 552,Seminar,Inter-University,1,<500,1210,2498,209,660,0
+Event Name 553,Cultural Fest,Inter-University,1,>1000,9585,36480,4964,0,7355
+Event Name 554,Cultural Fest,National,5,500-1000,9492,22312,2728,0,19669
+Event Name 555,Seminar,Intra-University,5,<500,1314,16125,1352,0,0
+Event Name 556,Cultural Fest,Intra-University,3,<500,6810,7088,1817,0,6672
+Event Name 557,Tech Fest,Inter-University,4,>1000,17916,43290,5307,4940,9939
+Event Name 558,Tech Fest,Intra-University,1,500-1000,18143,5978,1971,0,9061
+Event Name 559,Sports Tournament,Inter-University,5,500-1000,5665,29812,4789,0,5183
+Event Name 560,Sports Tournament,National,4,500-1000,4759,21720,3565,6942,0
+Event Name 561,Sports Tournament,Intra-University,5,>1000,6491,69150,6478,1133,0
+Event Name 562,Tech Fest,Intra-University,5,>1000,17216,75562,12363,0,16332
+Event Name 563,Tech Fest,Inter-University,1,>1000,16737,17880,4676,7164,9722
+Event Name 564,Tech Fest,Intra-University,1,>1000,12174,17978,2786,0,16528
+Event Name 565,Cultural Fest,Inter-University,5,>1000,5992,58238,3638,3598,0
+Event Name 566,Cultural Fest,Intra-University,2,<500,6243,5280,578,561,18062
+Event Name 567,Cultural Fest,Inter-University,5,<500,4306,17625,2244,0,18294
+Event Name 568,Cultural Fest,Intra-University,5,>1000,5687,85088,7662,0,5676
+Event Name 569,Religious Event,Inter-University,3,500-1000,1849,15908,2658,379,0
+Event Name 570,Tech Fest,Intra-University,3,>1000,9990,50850,7741,3454,17498
+Event Name 571,Cultural Fest,Intra-University,3,>1000,5961,103612,13820,0,14552
+Event Name 572,Sports Tournament,Intra-University,2,500-1000,3136,10260,1949,2710,7686
+Event Name 573,Cultural Fest,Inter-University,2,500-1000,4722,14505,2668,4259,14034
+Event Name 574,Sports Tournament,National,5,500-1000,7415,27788,2880,4426,18930
+Event Name 575,Seminar,Intra-University,3,500-1000,1028,19395,1360,999,61
+Event Name 576,Religious Event,Intra-University,2,<500,2138,4980,887,0,0
+Event Name 577,Tech Fest,Intra-University,1,>1000,10061,19320,2580,2974,6683
+Event Name 578,Religious Event,Inter-University,5,<500,3806,14438,1775,0,0
+Event Name 579,Cultural Fest,Inter-University,4,>1000,7786,96270,11762,957,13056
+Event Name 580,Tech Fest,Intra-University,5,500-1000,19357,24712,6204,0,16924
+Event Name 581,Cultural Fest,Intra-University,4,500-1000,9398,29190,3547,2240,11643
+Event Name 582,Religious Event,Intra-University,3,<500,2646,3105,738,0,0
+Event Name 583,Cultural Fest,Intra-University,4,<500,8736,11130,1526,2454,15252
+Event Name 584,Tech Fest,Intra-University,3,>1000,19748,68828,10611,3040,10169
+Event Name 585,Sports Tournament,International,1,500-1000,5147,6922,605,2961,0
+Event Name 586,Tech Fest,Intra-University,4,>1000,14449,124320,19032,0,10232
+Event Name 587,Tech Fest,Inter-University,5,500-1000,10681,21562,1710,5220,11196
+Event Name 588,Tech Fest,Intra-University,3,>1000,11199,64822,9219,6130,9288
+Event Name 589,Tech Fest,Intra-University,5,500-1000,14768,26250,2241,2774,11240
+Event Name 590,Tech Fest,Inter-University,2,500-1000,17130,7635,1898,8934,15386
+Event Name 591,Tech Fest,Inter-University,3,>1000,15440,64958,8017,4123,6600
+Event Name 592,Sports Tournament,International,4,<500,5724,8250,1286,0,0
+Event Name 593,Tech Fest,Intra-University,3,500-1000,10550,15188,1781,0,13875
+Event Name 594,Tech Fest,Intra-University,5,500-1000,12225,29062,3443,9897,0
+Event Name 595,Seminar,Inter-University,1,<500,910,660,193,0,0
+Event Name 596,Cultural Fest,Intra-University,3,500-1000,5099,12578,2067,2842,19109
+Event Name 597,Sports Tournament,Intra-University,4,500-1000,6435,16950,1337,2357,18779
+Event Name 598,Tech Fest,Intra-University,2,>1000,17053,19800,4597,0,0
+Event Name 599,Tech Fest,Intra-University,1,>1000,18832,18435,2061,3059,19899
+Event Name 600,Tech Fest,National,2,>1000,14468,70605,8872,0,10308
+Event Name 601,Tech Fest,Intra-University,3,500-1000,15236,14918,2292,0,7721
+Event Name 602,Tech Fest,Intra-University,5,500-1000,19923,34012,5866,8349,14080
+Event Name 603,Tech Fest,Intra-University,5,>1000,9551,113888,9398,0,0
+Event Name 604,Tech Fest,Intra-University,4,500-1000,19428,27300,6939,3851,7382
+Event Name 605,Tech Fest,Intra-University,5,500-1000,17928,33188,4139,9634,0
+Event Name 606,Cultural Fest,Intra-University,1,500-1000,6939,4935,881,0,6500
+Event Name 607,Tech Fest,Intra-University,5,>1000,9449,58800,5313,7452,10892
+Event Name 608,Cultural Fest,Inter-University,4,>1000,5903,63030,9626,520,15110
+Event Name 609,Cultural Fest,Intra-University,3,>1000,9851,95962,12023,0,14597
+Event Name 610,Sports Tournament,Intra-University,3,500-1000,4527,17640,2728,0,11055
+Event Name 611,Tech Fest,National,5,>1000,10659,57225,9626,9962,0
+Event Name 612,Sports Tournament,Inter-University,2,500-1000,6719,7665,2031,4178,7398
+Event Name 613,Sports Tournament,Intra-University,3,>1000,4436,82350,10752,836,5347
+Event Name 614,Tech Fest,Intra-University,5,500-1000,15445,24562,2792,0,15005
+Event Name 615,Seminar,Intra-University,4,<500,1044,11670,1708,891,0
+Event Name 616,Religious Event,Inter-University,5,500-1000,3463,23400,1891,0,0
+Event Name 617,Tech Fest,International,3,500-1000,17637,19305,4592,5025,13244
+Event Name 618,Tech Fest,Inter-University,4,<500,18490,9870,3362,6270,5869
+Event Name 619,Seminar,Intra-University,5,500-1000,1079,33900,4403,0,0
+Event Name 620,Sports Tournament,Inter-University,1,>1000,4737,37328,4344,2788,6300
+Event Name 621,Tech Fest,Intra-University,4,>1000,18566,110070,14648,0,19418
+Event Name 622,Tech Fest,Intra-University,1,>1000,15104,29197,6438,3454,9833
+Event Name 623,Cultural Fest,Intra-University,2,500-1000,6042,12840,1135,3272,7451
+Event Name 624,Cultural Fest,International,4,>1000,5278,141870,11902,0,0
+Event Name 625,Sports Tournament,Intra-University,1,500-1000,5923,5362,1254,4247,11854
+Event Name 626,Cultural Fest,Inter-University,3,500-1000,6594,20182,3920,0,0
+Event Name 627,Cultural Fest,Intra-University,3,<500,8689,4748,800,0,13171
+Event Name 628,Sports Tournament,Intra-University,2,>1000,3934,32265,1892,0,0
+Event Name 629,Tech Fest,Intra-University,4,500-1000,11153,24390,1975,0,8767
+Event Name 630,Tech Fest,Intra-University,4,>1000,15450,39930,3059,9543,7006
+Event Name 631,Sports Tournament,Inter-University,4,500-1000,3020,19470,3166,4737,9468
+Event Name 632,Seminar,Intra-University,2,<500,772,1275,250,0,3041
+Event Name 633,Cultural Fest,Inter-University,4,500-1000,7539,20160,3260,0,0
+Event Name 634,Cultural Fest,Inter-University,3,500-1000,9055,20678,3040,0,13432
+Event Name 635,Tech Fest,National,1,>1000,18523,30697,6310,6668,6896
+Event Name 636,Cultural Fest,Intra-University,3,<500,6241,5738,785,0,18453
+Event Name 637,Cultural Fest,Intra-University,3,>1000,6765,82935,8001,0,12618
+Event Name 638,Tech Fest,Intra-University,1,>1000,11510,29212,4031,2639,9055
+Event Name 639,Tech Fest,International,3,>1000,15867,53528,4236,0,13199
+Event Name 640,Cultural Fest,National,2,>1000,7350,21585,2661,6964,0
+Event Name 641,Tech Fest,Intra-University,1,>1000,10365,28320,3159,0,0
+Event Name 642,Tech Fest,Inter-University,3,<500,13583,3262,902,8470,10007
+Event Name 643,Tech Fest,Intra-University,5,>1000,12897,149550,10344,0,13709
+Event Name 644,Tech Fest,Inter-University,3,>1000,13718,26168,5042,5597,16294
+Event Name 645,Tech Fest,Intra-University,2,>1000,14001,17205,1617,0,19542
+Event Name 646,Seminar,Inter-University,4,<500,1961,2010,570,0,0
+Event Name 647,Cultural Fest,Intra-University,3,>1000,4087,75172,4648,2145,17699
+Event Name 648,Sports Tournament,Inter-University,4,>1000,7196,35820,5589,0,6376
+Event Name 649,Sports Tournament,Inter-University,5,>1000,7756,62325,9802,0,16130
+Event Name 650,Cultural Fest,Inter-University,3,500-1000,9470,22028,4539,2061,13163
+Event Name 651,Tech Fest,Intra-University,1,>1000,11020,37110,6582,0,11283
+Event Name 652,Cultural Fest,Intra-University,4,>1000,8273,33660,3302,0,18324
+Event Name 653,Cultural Fest,Intra-University,5,<500,6857,16837,1974,0,9920
+Event Name 654,Sports Tournament,Intra-University,1,500-1000,5602,5145,996,1247,5991
+Event Name 655,Cultural Fest,Intra-University,1,500-1000,9003,7140,1032,0,17151
+Event Name 656,Tech Fest,National,1,>1000,12284,33922,2413,4322,13046
+Event Name 657,Tech Fest,Intra-University,1,>1000,16617,27810,6083,8358,8604
+Event Name 658,Cultural Fest,Intra-University,3,500-1000,9227,13568,2403,4924,5020
+Event Name 659,Sports Tournament,Intra-University,3,500-1000,7491,16695,2682,0,19580
+Event Name 660,Cultural Fest,Intra-University,3,500-1000,9315,21622,4415,4155,14664
+Event Name 661,Cultural Fest,Inter-University,5,<500,6374,10500,1966,0,7637
+Event Name 662,Religious Event,Intra-University,5,<500,1853,9562,1359,0,3413
+Event Name 663,Sports Tournament,National,5,<500,3769,9262,1677,5316,6354
+Event Name 664,Tech Fest,Intra-University,2,>1000,17017,51645,4232,0,19013
+Event Name 665,Tech Fest,International,5,<500,11779,16837,2461,6277,13382
+Event Name 666,Tech Fest,National,3,500-1000,18050,18810,5412,6478,0
+Event Name 667,Tech Fest,Intra-University,3,>1000,10118,91170,14413,0,8550
+Event Name 668,Tech Fest,National,2,500-1000,14391,8790,3208,7284,13031
+Event Name 669,Tech Fest,Intra-University,2,>1000,8145,63195,6792,2641,17025
+Event Name 670,Tech Fest,Inter-University,5,<500,15942,13725,4026,5627,0
+Event Name 671,Tech Fest,Intra-University,4,>1000,12565,82020,5187,3893,0
+Event Name 672,Seminar,National,2,<500,1049,1425,160,0,0
+Event Name 673,Tech Fest,National,1,>1000,8192,21172,2684,0,0
+Event Name 674,Cultural Fest,Inter-University,3,<500,6603,1440,791,3843,15544
+Event Name 675,Cultural Fest,Inter-University,1,500-1000,7854,4072,911,1724,6195
+Event Name 676,Religious Event,Intra-University,3,<500,2076,10125,1045,0,0
+Event Name 677,Tech Fest,Intra-University,3,500-1000,10410,15030,1686,5190,13808
+Event Name 678,Cultural Fest,Intra-University,2,<500,7428,5385,1267,4405,0
+Event Name 679,Religious Event,Intra-University,2,<500,3695,1395,659,0,0
+Event Name 680,Seminar,Inter-University,1,<500,1195,1102,267,479,0
+Event Name 681,Seminar,Intra-University,3,<500,767,6975,471,915,0
+Event Name 682,Tech Fest,International,1,>1000,10568,23670,3381,0,15446
+Event Name 683,Tech Fest,Inter-University,4,>1000,13882,145980,19146,4672,0
+Event Name 684,Sports Tournament,Inter-University,1,<500,6285,3158,973,0,5753
+Event Name 685,Religious Event,Intra-University,5,<500,1559,14700,1450,0,0
+Event Name 686,Cultural Fest,National,1,>1000,7164,12112,2163,7266,12343
+Event Name 687,Cultural Fest,National,5,500-1000,4687,28312,4846,8353,18421
+Event Name 688,Tech Fest,Intra-University,5,>1000,19461,109275,7659,3126,16103
+Event Name 689,Sports Tournament,Inter-University,5,500-1000,3555,26438,2669,0,8685
+Event Name 690,Tech Fest,Inter-University,4,>1000,18771,55380,6723,9011,6982
+Event Name 691,Tech Fest,Intra-University,1,>1000,14103,7815,2360,8571,14678
+Event Name 692,Cultural Fest,Intra-University,1,<500,7905,3015,712,0,0
+Event Name 693,Cultural Fest,Intra-University,4,>1000,7075,68040,5083,0,5343
+Event Name 694,Tech Fest,Intra-University,3,<500,12631,7560,1586,0,8081
+Event Name 695,Tech Fest,Intra-University,2,500-1000,17599,12810,4427,0,7291
+Event Name 696,Sports Tournament,Intra-University,1,500-1000,4930,5790,1323,2292,9362
+Event Name 697,Tech Fest,Intra-University,2,500-1000,16274,14625,3590,0,9988
+Event Name 698,Cultural Fest,Intra-University,4,>1000,9087,32460,5472,0,0
+Event Name 699,Tech Fest,International,3,>1000,11768,47992,3750,9711,6438
+Event Name 700,Cultural Fest,Intra-University,3,>1000,7976,72832,10984,0,14652
+Event Name 701,Cultural Fest,International,3,500-1000,8812,21825,3354,4213,10977
+Event Name 702,Tech Fest,Intra-University,4,>1000,16802,53970,5912,3019,18703
+Event Name 703,Tech Fest,Intra-University,5,500-1000,14429,34612,6453,2062,7991
+Event Name 704,Tech Fest,Intra-University,5,>1000,11605,186750,25837,0,5085
+Event Name 705,Tech Fest,Intra-University,2,>1000,19475,49470,9278,0,18945
+Event Name 706,Religious Event,Intra-University,5,500-1000,2465,26662,1793,151,0
+Event Name 707,Tech Fest,Inter-University,5,>1000,19676,125175,21284,0,0
+Event Name 708,Seminar,Intra-University,3,<500,1194,4095,772,0,0
+Event Name 709,Tech Fest,Inter-University,3,>1000,14568,96120,9491,5273,16648
+Event Name 710,Sports Tournament,Inter-University,2,500-1000,4377,11760,913,0,0
+Event Name 711,Sports Tournament,Intra-University,1,500-1000,7381,6188,905,0,7804
+Event Name 712,Cultural Fest,Intra-University,2,<500,8964,6870,2364,2021,5689
+Event Name 713,Cultural Fest,Inter-University,2,>1000,5191,70170,8011,1221,9881
+Event Name 714,Cultural Fest,Intra-University,4,500-1000,4687,23310,2398,0,6996
+Event Name 715,Tech Fest,Intra-University,4,500-1000,18641,28470,3713,8249,12680
+Event Name 716,Religious Event,International,2,500-1000,2391,13920,1235,7190,429
+Event Name 717,Seminar,Intra-University,2,<500,1701,5610,851,0,0
+Event Name 718,Religious Event,Inter-University,2,<500,1544,4020,512,0,0
+Event Name 719,Tech Fest,International,5,>1000,9317,175200,27039,3251,10468
+Event Name 720,Sports Tournament,Intra-University,4,>1000,6582,93570,11856,848,0
+Event Name 721,Religious Event,Intra-University,2,<500,2469,4440,893,893,0
+Event Name 722,Tech Fest,Intra-University,3,>1000,9230,36900,3657,4030,0
+Event Name 723,Tech Fest,Intra-University,3,<500,9133,5872,869,5187,11817
+Event Name 724,Sports Tournament,Intra-University,5,>1000,6715,149512,15432,1965,5703
+Event Name 725,Cultural Fest,Inter-University,5,500-1000,9904,31575,3379,3587,14114
+Event Name 726,Seminar,Intra-University,1,<500,594,1088,118,0,0
+Event Name 727,Tech Fest,Intra-University,1,>1000,16082,34935,7411,0,0
+Event Name 728,Sports Tournament,International,1,500-1000,4030,6915,1033,0,13573
+Event Name 729,Tech Fest,Inter-University,5,>1000,17697,58688,5154,2516,18500
+Event Name 730,Tech Fest,Inter-University,5,500-1000,15970,31612,3324,2611,9697
+Event Name 731,Tech Fest,Intra-University,5,>1000,19377,187350,16139,0,15395
+Event Name 732,Seminar,Inter-University,3,<500,1227,2318,532,502,0
+Event Name 733,Sports Tournament,Intra-University,5,>1000,7971,103238,8541,0,12852
+Event Name 734,Cultural Fest,Intra-University,3,500-1000,8275,11588,1646,0,17901
+Event Name 735,Cultural Fest,Intra-University,1,500-1000,4065,4485,991,673,7670
+Event Name 736,Seminar,National,1,<500,1785,518,183,0,0
+Event Name 737,Cultural Fest,Intra-University,1,500-1000,9467,4088,970,2863,9544
+Event Name 738,Seminar,Intra-University,2,500-1000,1731,14250,1053,0,0
+Event Name 739,Cultural Fest,Intra-University,2,500-1000,8090,10380,1501,2218,11850
+Event Name 740,Cultural Fest,Intra-University,4,500-1000,6521,26460,1998,3557,0
+Event Name 741,Cultural Fest,Inter-University,4,>1000,6581,93150,5173,0,17159
+Event Name 742,Tech Fest,Inter-University,4,<500,16683,14580,4079,4713,6617
+Event Name 743,Sports Tournament,Inter-University,2,500-1000,4724,9150,885,0,8333
+Event Name 744,Cultural Fest,Intra-University,2,500-1000,6486,9420,2030,1945,19468
+Event Name 745,Tech Fest,Intra-University,4,>1000,14681,86160,13085,5201,5511
+Event Name 746,Seminar,Intra-University,4,<500,1600,7290,923,0,0
+Event Name 747,Cultural Fest,Intra-University,5,500-1000,7515,34200,3378,0,0
+Event Name 748,Cultural Fest,Intra-University,4,>1000,8537,55530,4133,0,13820
+Event Name 749,Religious Event,Inter-University,5,<500,2741,14062,2078,928,0
+Event Name 750,Sports Tournament,Intra-University,3,500-1000,3209,11408,1610,3021,18765
+Event Name 751,Tech Fest,Intra-University,2,500-1000,8534,7920,1901,8632,10834
+Event Name 752,Religious Event,Intra-University,4,<500,2486,4830,372,0,4340
+Event Name 753,Sports Tournament,Intra-University,2,500-1000,5220,14010,2745,0,16078
+Event Name 754,Tech Fest,Intra-University,2,>1000,11398,71160,4675,0,12572
+Event Name 755,Tech Fest,International,2,<500,10155,2700,1114,0,0
+Event Name 756,Sports Tournament,Inter-University,3,500-1000,6110,15458,1947,3077,9856
+Event Name 757,Sports Tournament,International,1,>1000,5166,20235,1273,7029,14245
+Event Name 758,Cultural Fest,Intra-University,4,>1000,4492,112680,11683,0,15096
+Event Name 759,Seminar,Intra-University,1,<500,1680,3098,599,0,0
+Event Name 760,Sports Tournament,Intra-University,1,<500,4214,1897,809,0,7894
+Event Name 761,Tech Fest,Intra-University,1,>1000,13325,24442,5210,0,10274
+Event Name 762,Tech Fest,Inter-University,2,>1000,16518,39660,5549,7920,14828
+Event Name 763,Tech Fest,Intra-University,5,500-1000,12703,29062,4722,6253,8613
+Event Name 764,Sports Tournament,Intra-University,2,>1000,4658,62160,3872,0,8084
+Event Name 765,Tech Fest,Intra-University,2,>1000,8001,40530,4795,8782,0
+Event Name 766,Cultural Fest,Intra-University,1,500-1000,9666,5692,1006,1091,7415
+Event Name 767,Sports Tournament,Inter-University,2,500-1000,4417,11130,1352,0,12066
+Event Name 768,Seminar,Intra-University,1,<500,662,2430,256,0,0
+Event Name 769,Tech Fest,Intra-University,5,>1000,9104,156487,15293,0,17494
+Event Name 770,Seminar,Intra-University,4,<500,1755,6660,902,0,0
+Event Name 771,Tech Fest,Intra-University,1,>1000,9861,8775,2614,0,19577
+Event Name 772,Seminar,Inter-University,5,<500,1041,7125,730,0,0
+Event Name 773,Tech Fest,National,4,500-1000,14943,26880,6195,6506,12443
+Event Name 774,Cultural Fest,International,3,500-1000,5929,15458,2693,2079,5700
+Event Name 775,Sports Tournament,Inter-University,1,<500,6292,3675,1008,2477,15393
+Event Name 776,Tech Fest,Intra-University,1,>1000,8437,15817,2775,3817,0
+Event Name 777,Tech Fest,Inter-University,3,500-1000,12846,21938,2095,4124,9145
+Event Name 778,Sports Tournament,Intra-University,3,500-1000,6329,12398,2518,1698,11997
+Event Name 779,Sports Tournament,Intra-University,1,500-1000,7808,4575,1340,0,7612
+Event Name 780,Sports Tournament,Inter-University,3,500-1000,6438,21060,4086,0,12399
+Event Name 781,Sports Tournament,Intra-University,2,500-1000,3224,12960,1839,4627,18974
+Event Name 782,Cultural Fest,National,4,>1000,9185,147750,20937,4809,6790
+Event Name 783,Tech Fest,Intra-University,4,<500,19360,2760,2875,7491,7928
+Event Name 784,Tech Fest,Inter-University,4,>1000,13398,97740,9396,0,14280
+Event Name 785,Tech Fest,Inter-University,2,>1000,14678,45525,4573,0,15573
+Event Name 786,Religious Event,National,3,<500,2154,5602,722,9440,0
+Event Name 787,Cultural Fest,Inter-University,5,500-1000,6488,29888,3518,0,16761
+Event Name 788,Cultural Fest,Inter-University,3,>1000,6785,41782,3594,3245,14357
+Event Name 789,Cultural Fest,Intra-University,1,>1000,6758,36172,5987,3081,0
+Event Name 790,Religious Event,Intra-University,4,500-1000,2745,18420,2207,763,987
+Event Name 791,Tech Fest,Intra-University,3,>1000,14937,46102,9024,0,12316
+Event Name 792,Cultural Fest,Inter-University,5,>1000,6373,187125,25349,0,17807
+Event Name 793,Cultural Fest,Intra-University,1,500-1000,7990,5985,1475,0,7063
+Event Name 794,Sports Tournament,Inter-University,2,>1000,7880,62220,10144,2203,0
+Event Name 795,Tech Fest,Intra-University,2,>1000,18860,28845,4794,2440,0
+Event Name 796,Seminar,Intra-University,5,<500,583,6975,1048,0,1934
+Event Name 797,Religious Event,Inter-University,1,<500,3670,518,359,0,0
+Event Name 798,Cultural Fest,Intra-University,4,500-1000,6689,28170,3063,0,6639
+Event Name 799,Sports Tournament,Intra-University,3,>1000,4222,27225,2887,3991,11385
+Event Name 800,Religious Event,Intra-University,1,<500,1794,2168,415,160,0
+Event Name 801,Sports Tournament,International,2,>1000,4777,38610,4571,3745,10480
+Event Name 802,Tech Fest,Inter-University,5,>1000,15776,130575,14582,0,18345
+Event Name 803,Cultural Fest,Intra-University,5,>1000,7932,66712,6016,0,13250
+Event Name 804,Sports Tournament,Intra-University,3,<500,3701,5760,1350,0,0
+Event Name 805,Cultural Fest,Intra-University,5,<500,7748,18300,2836,0,13493
+Event Name 806,Sports Tournament,Inter-University,5,>1000,3151,105075,9824,739,7944
+Event Name 807,Religious Event,Inter-University,1,<500,1270,1522,321,336,0
+Event Name 808,Religious Event,Intra-University,4,500-1000,2506,16230,2376,0,316
+Event Name 809,Cultural Fest,Intra-University,3,>1000,7861,31725,5782,0,15907
+Event Name 810,Tech Fest,Intra-University,1,500-1000,19810,3825,2362,4316,19241
+Event Name 811,Religious Event,Inter-University,4,<500,3934,10290,871,0,0
+Event Name 812,Seminar,Inter-University,1,500-1000,1002,4478,516,0,1178
+Event Name 813,Tech Fest,Intra-University,1,<500,16737,3570,1988,8837,18065
+Event Name 814,Religious Event,Intra-University,5,500-1000,2666,29025,4427,817,0
+Event Name 815,Seminar,Intra-University,4,<500,1123,14910,1435,0,0
+Event Name 816,Cultural Fest,International,3,500-1000,9924,20002,4349,7529,5211
+Event Name 817,Cultural Fest,Intra-University,3,<500,7826,10777,1833,875,15522
+Event Name 818,Cultural Fest,Inter-University,4,500-1000,8574,26130,5115,0,10149
+Event Name 819,Tech Fest,Inter-University,5,500-1000,18271,27338,2318,4492,18621
+Event Name 820,Tech Fest,Intra-University,2,>1000,14430,35880,7037,4344,19761
+Event Name 821,Seminar,Intra-University,1,<500,1888,3562,780,0,0
+Event Name 822,Tech Fest,Intra-University,5,<500,11114,10088,3098,8064,19002
+Event Name 823,Tech Fest,Inter-University,4,>1000,18118,78000,4932,3865,9091
+Event Name 824,Cultural Fest,Inter-University,1,>1000,9419,37035,3120,4111,0
+Event Name 825,Cultural Fest,Inter-University,3,>1000,4081,50738,6325,2016,0
+Event Name 826,Religious Event,Intra-University,2,<500,1923,5655,398,0,622
+Event Name 827,Tech Fest,Intra-University,3,500-1000,9203,21195,1713,0,16577
+Event Name 828,Tech Fest,International,4,>1000,17951,92970,7998,4673,14809
+Event Name 829,Sports Tournament,Inter-University,1,<500,4397,3172,766,0,0
+Event Name 830,Cultural Fest,Intra-University,4,<500,7739,14400,2316,2933,0
+Event Name 831,Tech Fest,International,1,>1000,11081,10312,1143,5688,6634
+Event Name 832,Cultural Fest,Inter-University,5,>1000,5932,47325,3570,0,14376
+Event Name 833,Tech Fest,Intra-University,2,>1000,11161,18990,3014,0,10568
+Event Name 834,Tech Fest,Inter-University,5,>1000,12321,127725,15320,9924,10145
+Event Name 835,Cultural Fest,Inter-University,5,<500,9946,13725,1535,0,6999
+Event Name 836,Cultural Fest,Inter-University,4,500-1000,9956,24690,3114,4535,19633
+Event Name 837,Religious Event,Intra-University,2,<500,1416,6870,1164,0,0
+Event Name 838,Cultural Fest,Intra-University,1,>1000,9211,37342,6978,1412,0
+Event Name 839,Cultural Fest,National,1,>1000,6790,35528,6294,3711,6677
+Event Name 840,Sports Tournament,Intra-University,3,500-1000,3064,19282,3087,0,16548
+Event Name 841,Tech Fest,Intra-University,1,500-1000,12078,6488,1661,5630,9177
+Event Name 842,Sports Tournament,Intra-University,4,>1000,7920,110970,14107,0,0
+Event Name 843,Tech Fest,Intra-University,5,>1000,12151,173775,17042,6216,11416
+Event Name 844,Religious Event,Inter-University,5,<500,3411,6225,1107,0,0
+Event Name 845,Tech Fest,National,5,>1000,10600,91650,8276,5438,0
+Event Name 846,Cultural Fest,Intra-University,2,500-1000,9545,8175,1960,1419,17288
+Event Name 847,Tech Fest,Intra-University,1,>1000,19790,36690,5782,4872,6496
+Event Name 848,Religious Event,Intra-University,4,<500,2515,4110,347,0,4766
+Event Name 849,Cultural Fest,National,2,500-1000,7258,10605,2306,0,14793
+Event Name 850,Cultural Fest,Inter-University,3,500-1000,6597,19710,1347,0,0
+Event Name 851,Tech Fest,Intra-University,4,>1000,11565,68760,6371,5108,0
+Event Name 852,Sports Tournament,Inter-University,4,<500,7272,4140,577,4494,8069
+Event Name 853,Tech Fest,National,4,<500,12593,12900,2234,7278,7803
+Event Name 854,Seminar,Inter-University,5,<500,1579,6262,442,0,0
+Event Name 855,Tech Fest,National,4,<500,16321,3090,2744,5154,18142
+Event Name 856,Tech Fest,Intra-University,1,500-1000,12734,7050,1812,7679,12276
+Event Name 857,Tech Fest,Inter-University,4,>1000,14257,94890,10473,9189,13486
+Event Name 858,Cultural Fest,Intra-University,5,500-1000,4348,23138,2336,3873,14745
+Event Name 859,Cultural Fest,Inter-University,4,>1000,8277,37770,5192,0,6946
+Event Name 860,Tech Fest,Inter-University,3,500-1000,11672,12915,3158,8538,11180
+Event Name 861,Sports Tournament,Inter-University,3,>1000,6431,56318,7205,0,11374
+Event Name 862,Cultural Fest,Inter-University,5,>1000,6226,125700,16467,744,13070
+Event Name 863,Cultural Fest,Intra-University,1,>1000,8867,22905,4467,0,11153
+Event Name 864,Cultural Fest,Intra-University,1,>1000,9111,10238,2638,0,0
+Event Name 865,Cultural Fest,International,2,<500,8124,2565,1255,0,8607
+Event Name 866,Cultural Fest,National,5,500-1000,6419,19125,1825,0,15432
+Event Name 867,Tech Fest,Intra-University,4,500-1000,18776,25410,5027,4375,11042
+Event Name 868,Tech Fest,Intra-University,5,>1000,10223,92288,10313,0,5362
+Event Name 869,Seminar,Intra-University,2,<500,1148,3960,622,0,0
+Event Name 870,Religious Event,Inter-University,5,500-1000,1836,34800,4883,908,0
+Event Name 871,Cultural Fest,Inter-University,5,500-1000,6068,29175,4380,4814,5084
+Event Name 872,Tech Fest,Intra-University,2,>1000,12136,68535,10863,0,17077
+Event Name 873,Sports Tournament,Intra-University,1,500-1000,3021,3952,393,0,17549
+Event Name 874,Cultural Fest,Inter-University,4,>1000,8161,52380,3218,3470,13822
+Event Name 875,Tech Fest,Inter-University,2,>1000,12823,51210,4857,5692,12868
+Event Name 876,Tech Fest,Intra-University,3,500-1000,18468,18270,5146,4841,7371
+Event Name 877,Sports Tournament,Intra-University,1,500-1000,6641,3938,1400,0,10821
+Event Name 878,Sports Tournament,Intra-University,3,>1000,3191,43200,5487,3353,0
+Event Name 879,Tech Fest,Intra-University,1,>1000,13471,15578,3488,4155,5726
+Event Name 880,Tech Fest,Intra-University,4,500-1000,8888,15840,3033,0,0
+Event Name 881,Tech Fest,Inter-University,4,<500,18235,12060,4370,0,13000
+Event Name 882,Sports Tournament,National,5,<500,3873,7988,1580,2554,13014
+Event Name 883,Tech Fest,Inter-University,3,500-1000,15127,17302,3643,2199,8475
+Event Name 884,Tech Fest,Inter-University,1,500-1000,11720,6247,2094,7158,15970
+Event Name 885,Sports Tournament,Intra-University,4,500-1000,3089,16020,1364,3575,0
+Event Name 886,Tech Fest,Intra-University,2,>1000,12212,26955,4533,9244,9134
+Event Name 887,Sports Tournament,Intra-University,4,500-1000,3456,25410,2669,0,14021
+Event Name 888,Tech Fest,Intra-University,2,500-1000,10415,11580,1436,3764,12532
+Event Name 889,Tech Fest,Inter-University,1,<500,17309,1927,2513,9331,11903
+Event Name 890,Tech Fest,International,4,>1000,11001,83190,9516,8764,0
+Event Name 891,Sports Tournament,Intra-University,4,<500,7534,13890,3165,0,6820
+Event Name 892,Seminar,Intra-University,1,<500,1028,1065,164,978,0
+Event Name 893,Seminar,Inter-University,4,<500,933,6660,745,0,0
+Event Name 894,Cultural Fest,Intra-University,2,500-1000,8587,8670,1636,0,12411
+Event Name 895,Sports Tournament,Intra-University,4,500-1000,5462,18270,1473,0,8651
+Event Name 896,Tech Fest,Inter-University,3,>1000,16777,68378,7886,2071,12707
+Event Name 897,Tech Fest,Inter-University,5,>1000,16044,160800,13927,9340,11881
+Event Name 898,Seminar,Intra-University,2,<500,586,7260,518,0,0
+Event Name 899,Tech Fest,Intra-University,3,>1000,10321,76612,6800,8412,0
+Event Name 900,Tech Fest,Inter-University,1,500-1000,8495,4538,956,5042,8775
+Event Name 901,Tech Fest,Intra-University,2,500-1000,19987,8190,3477,4194,5648
+Event Name 902,Tech Fest,Intra-University,5,<500,10148,8625,996,9033,15334
+Event Name 903,Tech Fest,Inter-University,5,>1000,8556,135862,16138,4061,0
+Event Name 904,Cultural Fest,Intra-University,1,500-1000,7185,5588,1610,0,0
+Event Name 905,Cultural Fest,Inter-University,1,>1000,4501,9322,1356,0,16343
+Event Name 906,Seminar,Intra-University,2,<500,1261,7065,1192,0,4089
+Event Name 907,Seminar,International,4,<500,966,11070,1454,8406,1276
+Event Name 908,Tech Fest,Intra-University,1,>1000,8156,31185,4909,0,19651
+Event Name 909,Tech Fest,Intra-University,4,>1000,16926,97920,8004,7353,5371
+Event Name 910,Cultural Fest,Intra-University,3,500-1000,4688,22252,3441,0,12120
+Event Name 911,Cultural Fest,Intra-University,5,500-1000,4386,18975,3112,0,7661
+Event Name 912,Tech Fest,National,4,>1000,13523,130470,12402,7214,13656
+Event Name 913,Sports Tournament,International,5,500-1000,5132,31350,2602,0,9315
+Event Name 914,Cultural Fest,Intra-University,4,>1000,5005,143790,13169,3521,13308
+Event Name 915,Cultural Fest,Intra-University,3,>1000,9820,91260,12530,4529,6374
+Event Name 916,Cultural Fest,Inter-University,1,>1000,7052,16440,2156,0,12393
+Event Name 917,Tech Fest,National,3,>1000,19468,29902,6105,0,8977
+Event Name 918,Religious Event,Intra-University,1,<500,2403,1402,233,0,0
+Event Name 919,Sports Tournament,Intra-University,1,>1000,4412,18480,2990,0,18817
+Event Name 920,Tech Fest,Intra-University,5,>1000,15950,52125,5127,4925,13342
+Event Name 921,Seminar,Inter-University,3,<500,1734,9675,854,190,111
+Event Name 922,Cultural Fest,Intra-University,4,500-1000,8366,24150,3545,3332,0
+Event Name 923,Seminar,Inter-University,3,500-1000,1609,16402,1027,0,0
+Event Name 924,Sports Tournament,Intra-University,5,500-1000,7070,36525,2294,0,10426
+Event Name 925,Cultural Fest,Inter-University,1,500-1000,7727,6052,1049,3082,8661
+Event Name 926,Tech Fest,Intra-University,5,>1000,8153,62700,7355,5980,14748
+Event Name 927,Tech Fest,Intra-University,2,>1000,15853,53400,9748,3725,12530
+Event Name 928,Cultural Fest,Intra-University,2,500-1000,4947,11025,2151,3913,17942
+Event Name 929,Sports Tournament,Inter-University,4,500-1000,4702,28080,3247,0,9533
+Event Name 930,Tech Fest,Intra-University,5,500-1000,9716,25762,1905,7794,9281
+Event Name 931,Tech Fest,Intra-University,4,>1000,19394,57870,7999,9968,9768
+Event Name 932,Seminar,Intra-University,4,<500,1757,1590,403,0,0
+Event Name 933,Religious Event,Intra-University,2,<500,2451,6750,772,0,0
+Event Name 934,Cultural Fest,Inter-University,4,<500,6794,5430,747,0,6718
+Event Name 935,Tech Fest,Inter-University,2,>1000,16096,21390,2919,0,8830
+Event Name 936,Tech Fest,Inter-University,1,<500,12272,2002,1815,7441,16373
+Event Name 937,Tech Fest,Intra-University,5,>1000,11767,85612,8289,0,5998
+Event Name 938,Religious Event,Inter-University,4,500-1000,1203,15000,2126,0,284
+Event Name 939,Tech Fest,Intra-University,2,<500,16834,1800,1527,4975,7160
+Event Name 940,Cultural Fest,Intra-University,3,500-1000,9817,21982,2110,3061,6494
+Event Name 941,Tech Fest,Intra-University,4,>1000,15216,127470,13353,0,0
+Event Name 942,Cultural Fest,Intra-University,1,500-1000,8453,7170,1488,3371,17449
+Event Name 943,Sports Tournament,Inter-University,1,500-1000,5682,5160,560,0,13913
+Event Name 944,Seminar,Inter-University,3,<500,1464,7650,562,381,2791
+Event Name 945,Tech Fest,Inter-University,2,>1000,13427,68865,5636,3485,7551
+Event Name 946,Tech Fest,Intra-University,4,>1000,15011,145080,9823,0,8888
+Event Name 947,Tech Fest,Intra-University,2,>1000,16052,28785,3773,3855,19089
+Event Name 948,Religious Event,Intra-University,1,500-1000,1252,7245,1244,959,0
+Event Name 949,Seminar,Intra-University,2,<500,824,5115,599,0,1057
+Event Name 950,Cultural Fest,Intra-University,1,500-1000,4485,6997,1295,0,11834
+Event Name 951,Sports Tournament,Intra-University,2,500-1000,4573,11145,1346,0,6795
+Event Name 952,Sports Tournament,Intra-University,3,<500,5908,3870,805,0,13215
+Event Name 953,Tech Fest,Intra-University,5,>1000,9212,106275,6042,6951,16289
+Event Name 954,Religious Event,Inter-University,3,<500,2777,7470,1025,0,0
+Event Name 955,Cultural Fest,International,3,500-1000,5471,11947,1713,5927,0
+Event Name 956,Cultural Fest,National,5,500-1000,8343,31237,2604,7964,0
+Event Name 957,Cultural Fest,Inter-University,5,500-1000,8883,32850,5276,0,17147
+Event Name 958,Tech Fest,Intra-University,4,<500,10511,5850,1624,7291,17495
+Event Name 959,Tech Fest,Inter-University,4,500-1000,8143,19650,2332,8931,0
+Event Name 960,Sports Tournament,Inter-University,3,500-1000,7680,20520,1824,3237,0
+Event Name 961,Tech Fest,Intra-University,3,500-1000,15367,11588,2836,9448,8174
+Event Name 962,Sports Tournament,Intra-University,1,500-1000,7009,6405,1681,3848,0
+Event Name 963,Tech Fest,Inter-University,1,500-1000,12582,4095,1304,3806,16820
+Event Name 964,Cultural Fest,Intra-University,4,<500,7848,9000,1211,0,11767
+Event Name 965,Tech Fest,Intra-University,4,>1000,14031,127740,14488,4775,9622
+Event Name 966,Cultural Fest,Intra-University,1,>1000,9785,30765,2657,968,13830
+Event Name 967,Sports Tournament,Intra-University,1,500-1000,3974,5692,1128,0,9167
+Event Name 968,Tech Fest,Intra-University,2,>1000,19496,21300,4509,8690,14364
+Event Name 969,Cultural Fest,Intra-University,2,500-1000,8597,7740,959,4332,6682
+Event Name 970,Cultural Fest,Intra-University,1,500-1000,7875,4035,639,0,0
+Event Name 971,Sports Tournament,Intra-University,2,>1000,6498,19545,2918,2175,0
+Event Name 972,Religious Event,Inter-University,5,500-1000,1441,34838,2882,0,0
+Event Name 973,Sports Tournament,Intra-University,4,>1000,6234,123300,7596,4331,0
+Event Name 974,Tech Fest,Intra-University,4,500-1000,12633,29640,5324,0,15731
+Event Name 975,Tech Fest,Intra-University,1,500-1000,11192,4732,1296,7504,0
+Event Name 976,Tech Fest,National,3,>1000,8300,80752,8545,3031,14901
+Event Name 977,Cultural Fest,Intra-University,1,500-1000,7815,4928,939,0,5710
+Event Name 978,Tech Fest,Intra-University,2,>1000,13694,34515,5435,8898,18522
+Event Name 979,Cultural Fest,National,3,>1000,8709,96165,8406,0,12069
+Event Name 980,Cultural Fest,Inter-University,2,<500,8507,1725,1502,0,0
+Event Name 981,Tech Fest,Intra-University,5,>1000,8067,118312,15203,8066,16185
+Event Name 982,Sports Tournament,Inter-University,2,>1000,7989,49725,3675,0,13565
+Event Name 983,Tech Fest,Intra-University,5,>1000,9537,122588,12112,7497,9251
+Event Name 984,Tech Fest,Intra-University,5,>1000,8397,106012,10130,3829,14305
+Event Name 985,Sports Tournament,Intra-University,2,500-1000,5026,7755,1322,2531,15590
+Event Name 986,Cultural Fest,Intra-University,2,500-1000,7320,8835,2168,0,14457
+Event Name 987,Sports Tournament,Inter-University,5,500-1000,3843,25500,3179,0,8123
+Event Name 988,Cultural Fest,Intra-University,3,500-1000,8698,16965,1441,0,13700
+Event Name 989,Tech Fest,Intra-University,5,>1000,16747,92925,12672,8083,14879
+Event Name 990,Seminar,Inter-University,4,<500,1202,9060,522,0,0
+Event Name 991,Sports Tournament,Inter-University,5,500-1000,4939,28350,4261,0,7197
+Event Name 992,Sports Tournament,Intra-University,3,>1000,3132,77175,9369,0,16120
+Event Name 993,Tech Fest,Inter-University,4,>1000,10941,43230,4381,3548,9799
+Event Name 994,Cultural Fest,Intra-University,1,>1000,5840,21608,2175,867,19225
+Event Name 995,Cultural Fest,Inter-University,1,500-1000,7291,4395,1517,2535,0
+Event Name 996,Tech Fest,Inter-University,3,>1000,18521,47542,8478,0,5325
+Event Name 997,Religious Event,International,5,500-1000,1904,27600,2515,4228,0
+Event Name 998,Tech Fest,Intra-University,2,>1000,13091,51555,5165,9322,12015
+Event Name 999,Religious Event,Intra-University,3,<500,3178,2677,621,0,0
+Event Name 1000,Cultural Fest,Intra-University,4,>1000,7718,123450,6668,0,0
